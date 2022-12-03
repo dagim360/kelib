@@ -89,3 +89,50 @@
 .form-control-plaintext {
 }
 
+div {
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.instafeed {
+  align-items: center;
+}
+
+h1 {
+  align-items: center;
+}
+
+h1 {
+}
+
+.followus {
+  align-items: center;
+  align-content: center;
+  margin-left: auto;
+}
+
+.followus {
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+.instafeed {
+  align-items: flex-start;
+  /*align-items: center;*/
+  align-items: flex-start;
+  flex: inherit;
+  display: flex;
+  float: left;
+  scroll-behavior: auto;
+}
+
+.igframe {
+  align-items: center;
+  position: relative;
+}
+
